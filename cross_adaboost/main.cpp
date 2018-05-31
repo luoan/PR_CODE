@@ -128,7 +128,7 @@ int main()
   //cv::Mat train_data_verify6 = train_data.rowRange(0, 605);
   //cv::Mat train_labels_verify6 = train_labels.rowRange(3605, 5280);
 
-  /*
+  
   std::cout << "part1" << std::endl;
   verify(train_data_part1, train_labels_part1, train_data_verify1, train_labels_verify1);
 
@@ -146,8 +146,8 @@ int main()
 
   std::cout << "part6" << std::endl;
   verify(train_data_part6, train_labels_part6, train_data_verify6, train_labels_verify6);
-  */
-
+  
+  
   std::cout << "test" << std::endl;
   predict(train_data_part2, train_labels_part2, test_data, test_labels);
 }
