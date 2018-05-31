@@ -2,7 +2,10 @@
 将这三个文件夹放在PR_dataset目录内，与test, train在同一目录下
 
 我的机器
-CentOS 7.5   cmake 2.8   make 3.82    opencv-3.4.1
+CentOS 7.5   
+cmake 2.8   
+make 3.82    
+opencv-3.4.1
 
 代码是C++语言编写的
 使用cmake编译OpenCV程序
