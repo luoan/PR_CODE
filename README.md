@@ -36,3 +36,7 @@ cmake ..
 make
 
 ./svm
+
+如果使用g++命令编译程序
+g++ main.cpp read_data.h read_data.cpp tostring.h tostring.cpp `pkg-config --libs --cflags opencv`
+./a.out
