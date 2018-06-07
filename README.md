@@ -1,7 +1,7 @@
 # PR_CODE
 将这三个文件夹放在PR_dataset目录内，与test, train在同一目录下
 
-我的机器
+我的环境
 
 CentOS 7.5
 
