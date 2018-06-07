@@ -4,8 +4,9 @@
 我的机器
 
 CentOS 7.5   
-cmake 2.8   
-make 3.82    
+cmake 2.8.12 
+make 3.82   
+g++ 4.8.5
 opencv-3.4.1
 
 代码是C++语言编写的
