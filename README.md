@@ -37,6 +37,7 @@ make
 
 ./svm
 
+
 如果使用g++命令编译程序
 
 read_data.cpp需要修改数据路径，或者在当前目录下mkdir一个新目录，cd进去，将a.out拷贝进去执行
